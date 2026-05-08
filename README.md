@@ -10,7 +10,7 @@ Custom homepage theme for Zalith Launcher.
 ## Installation
 ---
 - Open Zalith Launcher 2 and make sure you are using the latest version.
-...image url:"https://raw.githubusercontent.com/Exeidlhzx/SUN-UI/refs/heads/main/guide_1.png" width=100%
+...image url="https://raw.githubusercontent.com/Exeidlhzx/SUN-UI/refs/heads/main/guide_1.png" width=100%
 ---
 - open settings and click on launcher section
 - then scroll down and find the homepage menu
