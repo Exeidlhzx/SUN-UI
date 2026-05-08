@@ -1,5 +1,11 @@
-# SUN-UI
-Hanya custom home di zalith launcher 2
---- 
-that's all 
----
+# SUN UI 🌞
+
+Custom homepage theme for Zalith Launcher.
+
+## Features
+- Aesthetic Ui
+- modrinth shortcut
+- more
+
+## Installation
+Copy `homepage.md` into your launcher homepage editor.
