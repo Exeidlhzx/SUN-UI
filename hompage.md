@@ -12,7 +12,7 @@
 # About Us
 project ini kami buat dengan ❤️ kami berharap siapapun anda yang menggunakan tema menu ini
 untuk berkontribusi dengan melaporkan segala jenis bug ataupun request penambahan fitur
-melalui email kami ayam@susah.com 
+melalui email kami example@sh.com 
 kalian juga bisa donasi pada kami dengan mengklik link pada menu di bagian paling bawah. Terimakasih!
 
 ...card-end
