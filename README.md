@@ -13,7 +13,7 @@ Custom homepage theme for Zalith Launcher.
 ![Guide 1](https://raw.githubusercontent.com/Exeidlhzx/SUN-UI/refs/heads/main/guide_1.png)
 
 ---
-- open settings and click on launcher section ,then scroll down and find the homepage menu
+- open settings and click on launcher section then scroll down and find the homepage menu
 ---
 - and click "load with url" on the homepage menu
 - After that, enter the following URL: https://raw.githubusercontent.com/Exeidlhzx/SUN-UI/refs/heads/main/hompage.md
