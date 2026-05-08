@@ -32,10 +32,24 @@ kalian juga bisa donasi pada kami dengan mengklik link pada menu di bagian palin
 
 ...column-start horizontal=Center
 
-...image url="https://i.ibb.co.com/SDdCKztG/modrinth-logo.png" width=30% shape=16dp
+...image url="https://i.ibb.co.com/SDdCKztG/modrinth-logo.png"
 
 ...button-text text="Open website" event="url{https://modrinth.com}"
 
 ...column-end
 
 ...row-end
+---
+# CURSEFORGE  SHORTCUT 🪡
+...row-start horizontal=Center
+
+...column-start horizontal=Center
+
+...image url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSYIgw0XYXSjEu5MKQvGxmmFjNK15oR8escYgbG13_-w&s" width=10%
+
+...button-text text="Open website" event="url{https://curseforge.com}" 
+
+...column-end
+
+...row-end
+---
