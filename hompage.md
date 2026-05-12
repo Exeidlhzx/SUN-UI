@@ -1,5 +1,7 @@
 # SUN UI ☀️
 ---
+...image url="https://i.ibb.co.com/4nhFhRNH/20260512-175756.png" width=100%
+---
 ...card-start title="information" shape=small contentPadding=(16)
 #### Version : 0.1 (Beta)
 #### Update Time : 20.50(PM)
