@@ -56,7 +56,7 @@ kalian juga bisa donasi pada kami dengan mengklik link pada menu di bagian palin
 ...card-start title="OTHERS" shape=small contentPadding=(16)
 # Donation
 ---
-trakteer : https://trakteer.id/indra456
-saweria. : https://saweria.co/XnotFound
+- trakteer : https://trakteer.id/indra456
+- saweria. : https://saweria.co/XnotFound
 ---
 ...card-end
