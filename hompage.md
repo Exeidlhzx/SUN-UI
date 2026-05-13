@@ -53,8 +53,7 @@ kalian juga bisa donasi pada kami dengan mengklik link pada menu di bagian palin
 
 ...row-end
 ---
-...card-start title="information" shape=small contentPadding=(16)
----
-### Modrinth
+...card-start title="OTHERS" shape=small contentPadding=(16)
+# Donation
 
 ...card-end
